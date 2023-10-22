@@ -8,8 +8,8 @@ This classifier is capable of creating an approximate linear model to separate c
 
 A dataset is projected to 2D via PCA and every class is checked for a viable separation, if one is found a model is created and then evaluated. This is done in several steps:
   - Calculate convex hulls for every set of points
-  - Perform a linear sweeping checking for intersections or hulls within hulls, this dictates whether a dataset is separable (divisible) or not
-  - If separable, calculate the perpendicular line equation which intersects the the middle point of the shortest segment between hulls
+  - Perform a linear sweeping checking for hull intersections or hulls within hulls, this dictates whether a dataset is separable or not
+  - If separable, calculate the perpendicular line equation which intersects the middle point of the shortest segment between hulls
   - A database can be "made" separable by manipulating points, if manipulated, a point is added to the test database
   - Given the line equation, run tests and evaluate the Precision, Recall and F1-Score of the model
 
