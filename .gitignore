@@ -1,2 +1,3 @@
 *.cpp
 *.pdf
+src/__pycache__
