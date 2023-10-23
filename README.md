@@ -31,28 +31,28 @@ Some results can be seen below:
 
 *Classes view*
 
-![hulls3](https://github.com/probablygab/tp1-alg2/assets/96994614/a619e371-2c31-42ca-b6b0-978b04936b36)
+![hulls3](https://github.com/probablygab/2d-linear-classifier/assets/96994614/f4c6ab62-b886-4fd9-b356-4e504ad74597)
 
 *Resulting model*
 
-![output3](https://github.com/probablygab/tp1-alg2/assets/96994614/e639709d-a864-400b-9a01-aa9f89815231)
+![output3](https://github.com/probablygab/2d-linear-classifier/assets/96994614/7a6d908a-fbbe-48a1-bf4c-d874ea679788)
 
 **Dataset 1: Iris**
 
 *Classes view*
 
-![hull1](https://github.com/probablygab/tp1-alg2/assets/96994614/1c390b9e-2bd1-4eeb-b219-4001325c3954)
+![hull1](https://github.com/probablygab/2d-linear-classifier/assets/96994614/938ee987-feae-47d2-946f-d4f952dc4d21)
 
 *Resulting model*
 
-![output1](https://github.com/probablygab/tp1-alg2/assets/96994614/36bdabfd-c502-447c-8361-974aea15c2d0)
+![output1](https://github.com/probablygab/2d-linear-classifier/assets/96994614/4dcee123-d580-44cb-b9f2-2edcb40e8a0b)
 
 **Dataset 10: E. coli**
 
 *Classes view*
 
-![hulls10](https://github.com/probablygab/tp1-alg2/assets/96994614/cb77aa30-079f-4e38-b743-281d0857d200)
+![hulls10](https://github.com/probablygab/2d-linear-classifier/assets/96994614/54f064e1-9057-4ee2-a7fd-f9104fe4e938)
 
 *Resulting model (unable to generate)*
 
-![output10](https://github.com/probablygab/tp1-alg2/assets/96994614/dba73268-4832-429c-a1fe-d27e83c3ff87)
+![output10](https://github.com/probablygab/2d-linear-classifier/assets/96994614/dc712a6c-f473-4a57-9cda-c227b5cb6b22)
